@@ -6,15 +6,15 @@ To write a C# program to create a sample CPU usage on a network with 4 nodes usi
 ## Algorithm:
 
 ### Step1:
-
+Start.
 ### Step2:
-
+Declare a Jagged Array for four element.
 ### Step3:
-
+Initialize the elements.
 ### Step4:
-
+Accessing the elements.
 ### Step5:
-
+Stop.
 
 ## Program:
 ```c#
@@ -51,3 +51,4 @@ class CPUactivity
 ![img](https://user-images.githubusercontent.com/75413726/167161888-6bf6599d-513f-4fcd-80cf-ff514d308129.jpg)
 
 ## Result:
+Thus, the C# program to create a sample CPU usage on a network with 4 nodes using a jagged array is executed successfully.
